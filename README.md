@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vgauravatrdc
-- 👀 I’m interested in ML, Analytics, xAI, Marketing and Consumer Analytics
+- 👀 I’m interested in ML, xAI, MLOps, Marketing and Consumer Analytics
 
 <!---
 vgauravatrdc/vgauravatrdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
