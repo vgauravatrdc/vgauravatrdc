@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vgauravatrdc
+- 👋 I’m @vgauravatrdc
 - 👀 I’m interested in ML, xAI, MLOps, Marketing and Consumer Analytics
 
 <!---
